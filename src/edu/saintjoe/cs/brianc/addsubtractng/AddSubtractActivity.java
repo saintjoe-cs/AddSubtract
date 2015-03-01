@@ -31,7 +31,6 @@ import com.google.devtools.simple.runtime.events.EventDispatcher;
 
 public class AddSubtractActivity extends Form implements HandlesEventDispatching {
 
-	// These objects are equivalent to "components" of App Inventor
 	
 	// We begin with constants, and "global settings" variables
 	
@@ -55,7 +54,8 @@ public class AddSubtractActivity extends Form implements HandlesEventDispatching
 	private boolean memoryStoreMode = MEMORY_STORE;
 	
 	// Next are the UI widget references
- 
+	
+	// These objects are equivalent to "components" of App Inventor
 	// The containers which organize the app screen
 	private HorizontalArrangement line1;
 	private HorizontalArrangement line2;

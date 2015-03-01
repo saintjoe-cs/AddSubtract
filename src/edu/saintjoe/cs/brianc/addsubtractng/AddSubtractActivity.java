@@ -26,6 +26,7 @@ import com.google.devtools.simple.runtime.events.EventDispatcher;
 // Begun on 23 April 2014
 
 // 30 April 2014: Make the display "right"
+// 1 March 2015: First version sent to github
 
 
 public class AddSubtractActivity extends Form implements HandlesEventDispatching {

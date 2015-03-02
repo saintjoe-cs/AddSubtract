@@ -27,6 +27,7 @@ import com.google.devtools.simple.runtime.events.EventDispatcher;
 
 // 30 April 2014: Make the display "right"
 // 1 March 2015: First version sent to github
+// This is meant to teach my students a sick new deal going on right now
 
 
 public class AddSubtractActivity extends Form implements HandlesEventDispatching {

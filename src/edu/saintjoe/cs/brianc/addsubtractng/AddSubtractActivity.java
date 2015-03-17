@@ -30,6 +30,11 @@ import com.google.devtools.simple.runtime.events.EventDispatcher;
 // This is meant to teach my students a sick new deal going on right now
 
 
+// Special note of St. Patrick's Day, 2015:
+//    This version of the code is going to soon be rewritten from the ground up
+//    by the members of CMP112 Term 142
+
+
 public class AddSubtractActivity extends Form implements HandlesEventDispatching {
 
 	
@@ -69,6 +74,7 @@ public class AddSubtractActivity extends Form implements HandlesEventDispatching
 	// But here are all the UI widgets
 	
 	// Widgets for data input
+	// Here is my new comment
 	private Label inputPrompt;
 	private TextBox inputBox;
 	
